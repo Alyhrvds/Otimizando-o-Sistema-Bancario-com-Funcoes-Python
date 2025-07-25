@@ -18,10 +18,10 @@ bash
 git clone https://github.com/Alyhrvds/Otimizando-o-Sistema-Bancario-com-Funcoes-Python.git
 
 ### Acesse a pasta do projeto:
-cd Criando-um-Sistema-Bancario-com-Python
+cd Otimizando-o-Sistema-Bancario-com-Funcoes-Python
 
 ### Execute o programa:
-python sistemaBancario.py
+python sistemaBancarioV2.py
 
 
 ## Funcionalidades
