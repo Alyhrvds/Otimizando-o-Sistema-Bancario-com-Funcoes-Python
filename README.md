@@ -14,13 +14,13 @@ Perfeito para treinar **lógica de programação**, **organização em funções
 ## Como usar
 
 bash
-# Clone o repositório:
-git clone https://github.com/Alyhrvds/Criando-um-Sistema-Bancario-com-Python.git
+### Clone o repositório:
+git clone https://github.com/Alyhrvds/Otimizando-o-Sistema-Bancario-com-Funcoes-Python.git
 
-# Acesse a pasta do projeto:
+### Acesse a pasta do projeto:
 cd Criando-um-Sistema-Bancario-com-Python
 
-# Execute o programa:
+### Execute o programa:
 python sistemaBancario.py
 
 
